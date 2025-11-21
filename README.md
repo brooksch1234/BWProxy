@@ -6,7 +6,7 @@
 <h1 align="center">
 BW Proxy
 </h1>
-BW Proxy is an open-source, privacy focused, feature rich, online gaming website built in Node.js. 
+BW Proxy is an source, privacy focused, feature rich, online gaming website built in Node.js. 
 
 ## Features
 
