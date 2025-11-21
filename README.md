@@ -4,11 +4,9 @@
 </kbd>
 
 <h1 align="center">
-arsenic
+BW Proxy
 </h1>
 BW Proxy is an open-source, privacy focused, feature rich, online gaming website built in Node.js. 
-
-**If you like our project, please consider giving us a star!**
 
 ## Features
 
@@ -20,5 +18,3 @@ BW Proxy is an open-source, privacy focused, feature rich, online gaming website
 - 🙈 about:blank and tab cloaking
 - 🖥️ activestatus monitoring
 - and more!
-
-For more info, please refer to our [documentation](https://docs.arsenic.smartfoloo.space/)
